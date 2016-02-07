@@ -1,0 +1,682 @@
+---
+coreset:
+  :pilots:
+    Luke Skywalker:
+    - http://imgur.com/bD3ySUy.jpg
+    Biggs Darklighter:
+    - http://i.imgur.com/DzEeC50.png
+    Red Squadron Pilot:
+    - http://i.imgur.com/HjtnOjX.png
+    Rookie Pilot:
+    - http://i.imgur.com/3t8R4I9.png
+    '"Mauler Mithel"':
+    - http://i.imgur.com/hIJOmHf.png
+    '"Dark Curse"':
+    - http://i.imgur.com/36b30Ct.png
+    '"Night Beast"':
+    - http://i.imgur.com/rfeAQdP.png
+    Black Squadron Pilot:
+    - http://i.imgur.com/4lzS4hS.png
+    Obsidian Squadron Pilot:
+    - http://i.imgur.com/QAV95LT.png
+    Academy Pilot:
+    - http://i.imgur.com/keGRtdZ.png
+  :upgrades:
+    Proton Torpedoes:
+    - http://i.imgur.com/hvxfKII.png
+    R2-F2:
+    - http://i.imgur.com/NmFyRfd.png
+    R2-D2:
+    - http://i.imgur.com/FIF70DL.png
+    Determination:
+    - http://home.comcast.net/~jason.fuller/images/determination.png
+    Marksmanship:
+    - http://i.imgur.com/6wwUIhQ.png
+xwing:
+  :set_image:
+  - http://i.imgur.com/c04uUsy.jpg
+  :pilots:
+    Wedge Antilles:
+    - http://i.imgur.com/SORmu02.png
+    Garven Dreis:
+    - http://i.imgur.com/UIjvK8V.png
+    Red Squadron Pilot:
+    - http://i.imgur.com/HjtnOjX.png
+    Rookie Pilot:
+    - http://i.imgur.com/3t8R4I9.png
+  :upgrades:
+    Proton Torpedoes:
+    - http://i.imgur.com/hvxfKII.png
+    R5-K6:
+    - http://i.imgur.com/XdDrJX8.png
+    R5 Astromech:
+    - http://home.comcast.net/~jason.fuller/images/r5-astromech.png
+    Expert Handling:
+    - http://i.imgur.com/C3GsEsl.png
+    Marksmanship:
+    - http://i.imgur.com/6wwUIhQ.png
+ywing:
+  :set_image:
+  - http://i.imgur.com/Yq3AwuT.jpg
+  :pilots:
+    Horton Salm:
+    - http://i.imgur.com/s5oSp78.png
+    '"Dutch" Vander':
+    - http://i.imgur.com/dIV8Ljk.png
+    Gray Squadron Pilot:
+    - http://home.comcast.net/~jason.fuller/images/gray.png
+    Gold Squadron Pilot:
+    - http://home.comcast.net/~jason.fuller/images/gold.png
+  :upgrades:
+    Proton Torpedoes:
+    - http://i.imgur.com/hvxfKII.png
+    Ion Cannon Turret:
+    - http://i.imgur.com/IO8GyZR.png
+    R5-D8:
+    - http://home.comcast.net/~jason.fuller/images/r5-d8.png
+    R2 Astromech:
+    - http://i.imgur.com/M0niE8p.png
+tiefighter:
+  :set_image:
+  - http://i.imgur.com/vDx5rpN.jpg
+  :pilots:
+    '"Howlrunner"':
+    - http://i.imgur.com/fuzBm9c.png
+    '"Backstabber"':
+    - http://i.imgur.com/h8dMtEC.png
+    '"Winged Gundark"':
+    - http://i.imgur.com/bdRSn85.png
+    Black Squadron Pilot:
+    - http://i.imgur.com/4lzS4hS.png
+    Obsidian Squadron Pilot:
+    - http://i.imgur.com/QAV95LT.png
+    Academy Pilot:
+    - http://i.imgur.com/keGRtdZ.png
+  :upgrades:
+    Determination:
+    - http://home.comcast.net/~jason.fuller/images/determination.png
+    Swarm Tactics:
+    - http://i.imgur.com/AysLkkT.png
+tieadvanced:
+  :set_image:
+  - http://i.imgur.com/vaSrzMu.jpg
+  :pilots:
+    Darth Vader:
+    - http://i.imgur.com/jpUdyEn.png
+    Maarek Stele:
+    - http://i.imgur.com/3iIxRAs.png
+    Storm Squadron Pilot:
+    - http://i.imgur.com/OVEFOrl.png
+    Tempest Squadron Pilot:
+    - http://i.imgur.com/H9c8rKM.png
+  :upgrades:
+    Concussion Missiles:
+    - http://i.imgur.com/diKSXal.png
+    Cluster Missiles:
+    - http://i.imgur.com/ZvFVKDM.png
+    Squad Leader:
+    - http://i.imgur.com/ORJtVrq.png
+    Swarm Tactics:
+    - http://i.imgur.com/AysLkkT.png
+    Expert Handling:
+    - http://i.imgur.com/C3GsEsl.png
+awing:
+  :set_image:
+  - http://i.imgur.com/8pZuvgp.png
+  :pilots:
+    Tycho Celchu:
+    - http://i.imgur.com/6MRIIvL.png
+    Arvel Crynyd:
+    - http://i.imgur.com/1GrBskJ.png
+    Green Squadron Pilot:
+    - http://i.imgur.com/avHyPvX.png
+    Prototype Pilot:
+    - http://i.imgur.com/s8uvdbF.png
+  :upgrades:
+    Concussion Missiles:
+    - http://i.imgur.com/diKSXal.png
+    Homing Missiles:
+    - http://i.imgur.com/CM3ZgDG.png
+    Cluster Missiles:
+    - http://i.imgur.com/ZvFVKDM.png
+    Push The Limit:
+    - http://i.imgur.com/0FlQHDE.png
+    Deadeye:
+    - http://home.comcast.net/~jason.fuller/images/Deadeye.png
+falcon:
+  :set_image:
+  - http://i.imgur.com/JDtaTeE.png
+  :pilots:
+    Han Solo:
+    - http://i.imgur.com/Z4D2U6a.png
+    Lando Calrissian:
+    - http://home.comcast.net/~jason.fuller/images/lando.png
+    Chewbacca:
+    - http://home.comcast.net/~jason.fuller/images/chewyPilot.png
+    Outer Rim Smuggler:
+    - http://i.imgur.com/oJfS3Pn.png
+  :upgrades:
+    Concussion Missiles:
+    - http://i.imgur.com/diKSXal.png
+    Assault Missiles:
+    - http://i.imgur.com/wpuBWIq.png
+    Elusiveness:
+    - http://i.imgur.com/Wg49z6O.png
+    Draw Their Fire:
+    - http://home.comcast.net/~jason.fuller/images/drawtheirfire.png
+    Veteran Instincts:
+    - http://i.imgur.com/2cPD2rE.png
+    Luke Skywalker:
+    - http://i.imgur.com/g7WB0.png
+    Nien Nunb:
+    - http://i.imgur.com/8rp54.png
+    Chewbacca:
+    - http://i.imgur.com/JcfSC.png
+    Weapons Engineer:
+    - http://i.imgur.com/Qc1ga87.png
+    Shield Upgrade:
+    - http://i.imgur.com/4hAyV.png
+    Engine Upgrade:
+    - http://i.imgur.com/0gU5y.png
+    Millennium Falcon:
+    - http://i.imgur.com/9i1pX.png
+tieinterceptor:
+  :set_image:
+  - http://i.imgur.com/xaXySMl.png
+  :pilots:
+    Soontir Fel:
+    - http://i.imgur.com/waiivCR.png
+    Turr Phennir:
+    - http://i.imgur.com/ksFFrfP.png
+    '"Fel''s Wrath"':
+    - http://i.imgur.com/JWCtJGB.png
+    Saber Squadron Pilot:
+    - http://home.comcast.net/~jason.fuller/images/saberSquad.png
+    Avenger Squadron Pilot:
+    - http://home.comcast.net/~jason.fuller/images/avengerSquad.png
+    Alpha Squadron Pilot:
+    - http://i.imgur.com/ZR8JNYG.png
+  :upgrades:
+    Daredevil:
+    - http://i.imgur.com/OmNWOYi.png
+    Elusiveness:
+    - http://i.imgur.com/Wg49z6O.png
+slave1:
+  :set_image:
+  - http://i.imgur.com/382Aimu.png
+  :pilots:
+    Boba Fett:
+    - http://i.imgur.com/y3EhcKz.png
+    Kath Scarlet:
+    - http://i.imgur.com/9xr843M.png
+    Krassis Trelix:
+    - http://i.imgur.com/s5inNeW.png
+    Bounty Hunter:
+    - http://i.imgur.com/GnSV3ZC.png
+  :upgrades:
+    Homing Missiles:
+    - http://i.imgur.com/CM3ZgDG.png
+    Assault Missiles:
+    - http://i.imgur.com/wpuBWIq.png
+    Ion Cannon:
+    - http://i.imgur.com/UwXEO63.png
+    Heavy Laser Cannon:
+    - http://i.imgur.com/AFErJT7.png
+    Veteran Instincts:
+    - http://i.imgur.com/2cPD2rE.png
+    Expose:
+    - http://i.imgur.com/P3dOV2D.png
+    Seismic Charges:
+    - http://i.imgur.com/XZ1gtqE.png
+    Proximity Mine:
+    - http://i.imgur.com/4bktWAf.png
+    Gunner:
+    - http://i.imgur.com/BvOlee5.png
+    Mercenary Copilot:
+    - http://i.imgur.com/HVxIwT0.png
+    Stealth Device:
+    - http://i.imgur.com/yhmJ56Y.png
+    Slave 1:
+    - http://i.imgur.com/oOgtiS4.png
+bwing:
+  :set_image:
+  - http://i.imgur.com/6g5DVV4.png
+  :pilots:
+    Ten Numb:
+    - http://i.imgur.com/auHpBVA.png
+    Ibtisam:
+    - http://i.imgur.com/YkXVkHE.png
+    Dagger Squadron Pilot:
+    - http://i.imgur.com/oUPfgoW.png
+    Blue Squadron Pilot:
+    - http://i.imgur.com/jiWxu3f.png
+  :upgrades:
+    Fire Control Systems:
+    - http://i.imgur.com/le6iuvc.png
+    Advanced Proton Torpedos:
+    - http://i.imgur.com/2myNRYn.png
+    Proton Torpedos:
+    - http://i.imgur.com/hvxfKII.png
+    Ion Cannon:
+    - http://i.imgur.com/UwXEO63.png
+    Autoblaster:
+    - http://i.imgur.com/jr4kuKs.png
+hwk290:
+  :set_image:
+  - http://i.imgur.com/V4z8mf7.png
+  :pilots:
+    Jan Ors:
+    - http://i.imgur.com/ULjt3p5.png
+    Kyle Katarn:
+    - http://i.imgur.com/FLud0MM.png
+    Roark Garnet:
+    - http://i.imgur.com/GZf2X78.png
+    Rebel Operative:
+    - http://i.imgur.com/zS9x9T2.png
+  :upgrades:
+    Ion Cannon Turret:
+    - http://i.imgur.com/IO8GyZR.png
+    Recon Specialist:
+    - http://i.imgur.com/4fz3D0c.png
+    Moldy Crow:
+    - http://i.imgur.com/SvZA040.png
+    Blaster Turret:
+    - http://i.imgur.com/9mnXhF4.png
+    Saboteur:
+    - http://i.imgur.com/FWjDcBn.png
+    Intelligence Agent:
+    - http://i.imgur.com/mFV0sIW.png
+tiebomber:
+  :set_image:
+  - http://i.imgur.com/4kuIii5.png
+  :pilots:
+    Major Rhymer:
+    - http://i.imgur.com/wiM5SNL.png
+    Captain Jonus:
+    - http://i.imgur.com/UNB7PdZ.png
+    Gamma Squadron Pilot:
+    - http://i.imgur.com/jK33Av3.png
+    Scimitar Squadron Pilot Pilot:
+    - http://i.imgur.com/CtWKFGw.png
+  :upgrades:
+    Proton Bomb:
+    - http://i.imgur.com/IaRTKAi.png
+    Assault Missiles:
+    - http://i.imgur.com/wpuBWIq.png
+    Advanced Proton Torpedos:
+    - http://i.imgur.com/2myNRYn.png
+    Seismic Charges:
+    - http://i.imgur.com/XZ1gtqE.png
+    Adrenaline Rush:
+    - http://i.imgur.com/Fe4mNRa.png
+lambda:
+  :set_image:
+  - http://i.imgur.com/z5bCZzH.png
+  :pilots:
+    Captian Kagi:
+    - http://i.imgur.com/yAmLoX0.png
+    Colonel Jendon:
+    - http://i.imgur.com/ZPdzJXD.png
+    Captain Yorr:
+    - http://i.imgur.com/JnsyMnF.png
+    Omicron Group Pilot:
+    - http://i.imgur.com/o9IbwJI.png
+  :upgrades:
+    Sensor Jammer:
+    - http://i.imgur.com/dKsoSr7.png
+    Rebel Captive:
+    - http://i.imgur.com/927htTx.png
+    Advanced Sensors:
+    - http://i.imgur.com/KLc2tL3.png
+    ST-321:
+    - http://i.imgur.com/OCfedej.png
+    Heavy Laser Cannon:
+    - http://i.imgur.com/AFErJT7.png
+    Weapons Engineer:
+    - http://i.imgur.com/Qc1ga87.png
+    Darth Vader:
+    - http://i.imgur.com/pG0rFIY.png
+    Intelligence Agent:
+    - http://i.imgur.com/mFV0sIW.png
+    Navigator:
+    - http://i.imgur.com/PZYfyaZ.png
+    Flight Instructor:
+    - http://i.imgur.com/EWm0tV3.png
+    Anti-Pursuit Lasers:
+    - http://i.imgur.com/jgVBzEh.png
+z-95:
+  :set_image:
+  - http://i.imgur.com/cy5jQgh.jpg
+  :pilots:
+    Airen Cracken:
+    - http://i.imgur.com/9as8Xye.png
+    Lieutenant Blount:
+    - http://i.imgur.com/nAgBD0k.png
+    Tala Squadron Pilot:
+    - http://i.imgur.com/pCxH5sp.png
+    Bandit Squadron Pilot:
+    - http://i.imgur.com/Lo7CL37.png
+  :upgrades:
+    Munitions Failsafe:
+    - http://i.imgur.com/S09jWpU.png
+    Decoy:
+    - http://i.imgur.com/7VXQj0n.png
+    Wingman:
+    - http://i.imgur.com/DvIibO8.png
+    Ion Pulse Missiles:
+    - http://i.imgur.com/XNkL26p.png
+    Assault Missiles:
+    - http://i.imgur.com/wpuBWIq.png
+e-wing:
+  :set_image:
+  - http://i.imgur.com/zKaNhpr.jpg
+  :pilots:
+    Etahn A’baht:
+    - http://i.imgur.com/C78VCv6.png
+    Corran Horn:
+    - http://i.imgur.com/aA9uFiR.png
+    Blackmoon Squadron Pilot:
+    - http://i.imgur.com/BmTDt4y.png
+    Knave Squadron Pilot:
+    - http://i.imgur.com/Dasejpu.png
+  :upgrades:
+    Advanced Sensors:
+    - http://i.imgur.com/KLc2tL3.png
+    Outmaneuver:
+    - http://i.imgur.com/PwcMSYl.png
+    R7-T1:
+    - http://i.imgur.com/TS8mPpX.png
+    R7 Astromech:
+    - http://i.imgur.com/TqUsQEt.png
+    Flechette Torpedoes:
+    - http://i.imgur.com/HdTjHAx.png
+tiedefender:
+  :pilots:
+    Rexler Brath:
+    - http://i.imgur.com/Zc7rNRJ.png
+    Colonel Vessery:
+    - http://i.imgur.com/i1V9Ych.png
+    Something Squadron Pilot:
+    - http://i.imgur.com/DLErYQV.png
+    Delta Squadron Pilot:
+    - http://i.imgur.com/LL6g6Bx.png
+  :upgrades:
+    Munitions Failsafe:
+    - http://i.imgur.com/S09jWpU.png
+    Predator:
+    - http://i.imgur.com/Od2tvP8.png
+    Outmaneuver:
+    - http://i.imgur.com/PwcMSYl.png
+    Ion Cannon:
+    - http://i.imgur.com/UwXEO63.png
+    Ion Pulse Missiles:
+    - http://i.imgur.com/XNkL26p.png
+tiephantom:
+  :pilots:
+    '"Whisper"':
+    - http://i.imgur.com/K3bUYKP.png
+    '"Echo"':
+    - http://i.imgur.com/JxOq8KX.png
+    Shadow Squadron Pilot:
+    - http://i.imgur.com/6FZ3i1a.png
+    Sigma Squadron Pilot:
+    - http://i.imgur.com/nyIan7S.png
+  :upgrades:
+    Fire Control Systems:
+    - http://i.imgur.com/le6iuvc.png
+    Tactician:
+    - http://i.imgur.com/fIHMdzM.png
+    Recon Specialist:
+    - http://i.imgur.com/4fz3D0c.png
+    Advanced Cloaking Device:
+    - http://i.imgur.com/h4IMC7y.png
+    Stygium Particle Accelerator:
+    - http://i.imgur.com/CgSYoaI.png
+yt2400:
+  :set_image:
+  - http://i.imgur.com/cy5jQgh.jpg
+  :pilots:
+    Dash Rendar:
+    - http://i.imgur.com/jEks9fQ.png
+    Eaden Vrill:
+    - http://i.imgur.com/yCbEE7m.png
+    PS5 Pilot:
+    - http://i.imgur.com/PF9gwxK.png
+    PS3 Pilot:
+    - http://i.imgur.com/PF9gwxK.png
+  :upgrades:
+    Experimental Interface:
+    - http://i.imgur.com/v18beTK.png
+    Countermeasures:
+    - http://i.imgur.com/V3VPnMe.png
+    Outrider:
+    - http://i.imgur.com/z6E50dL.png
+    Lone Wolf:
+    - http://i.imgur.com/AJvpACa.png
+    '"Leebo"':
+    - http://i.imgur.com/euas4JZ.png
+    Lando Calrissian:
+    - http://i.imgur.com/Jtggg2x.png
+    Stay on Target:
+    - http://i.imgur.com/3RCTwTj.png
+    Dash Rendar:
+    - http://i.imgur.com/qRkVota.png
+    Gunner:
+    - http://i.imgur.com/BvOlee5.png
+    Mercenary Copilot:
+    - http://i.imgur.com/HVxIwT0.png
+    Proton Rockets:
+    - http://i.imgur.com/yhIpRZ1.png
+    Heavy Laser Cannon:
+    - http://i.imgur.com/AFErJT7.png
+vt49:
+  :set_image:
+  - http://i.imgur.com/cy5jQgh.jpg
+  :pilots:
+    Captain Oiccunn:
+    - http://i.imgur.com/g3UJNSM.png
+    Rear Admiral Chiraneau:
+    - http://i.imgur.com/5MNwBwA.png
+    Commander Kenkirk:
+    - http://i.imgur.com/pWEf3KG.png
+    PS 3 Pilot:
+    - http://i.imgur.com/DLErYQV.png
+  :upgrades:
+    Ruthlessness:
+    - http://i.imgur.com/NgCs3a0.png
+    Dauntless:
+    - http://i.imgur.com/PnH3UpN.png
+    Ysanne Isard:
+    - http://i.imgur.com/9e8pBjT.png
+    Moff Jerjerrod:
+    - http://i.imgur.com/LuuXisT.png
+    Intimidation:
+    - http://i.imgur.com/3xEqASg.png
+    Tactical Jammer:
+    - http://i.imgur.com/1EvncrG.png
+    Proton Bomb:
+    - http://i.imgur.com/IaRTKAi.png
+    Mara Jade:
+    - http://i.imgur.com/kbr0vAq.png
+    Fleet Officer:
+    - http://i.imgur.com/nrGGLeh.png
+imperialaces:
+  :pilots:
+    Carnor Jax:
+    - http://i.imgur.com/Iqbe8qA.png
+    Kir Kanos:
+    - http://i.imgur.com/1ifUwCP.png
+    Royal Guard Pilot:
+    - http://i.imgur.com/Cjr3f8D.png
+    Tetran Cowall:
+    - http://i.imgur.com/Ye4ppLC.png
+    Lieutenant Lorrir:
+    - http://i.imgur.com/M4FHbKA.png
+    Saber Squadron Pilot:
+    - http://home.comcast.net/~jason.fuller/images/saberSquad.png
+  :upgrades:
+    Royal Guard TIE:
+    - http://i.imgur.com/t2DvXLs.png
+    Targeting Computer:
+    - http://i.imgur.com/MJVja8I.png
+    Hull Upgrade:
+    - http://i.imgur.com/uC44BcD.png
+    Push the Limit:
+    - http://i.imgur.com/0FlQHDE.png
+    Opportunist:
+    - http://i.imgur.com/as5U99a.png
+    Shield Upgrade:
+    - http://i.imgur.com/4hAyV.png
+rebelaces:
+  :pilots:
+    Jake Farrell:
+    - http://i.imgur.com/oltXZ3E.png
+    Gemmer Sojan:
+    - http://i.imgur.com/0iewuP5.png
+    Green Squadron Pilot:
+    - http://i.imgur.com/avHyPvX.png
+    Prototype Pilot:
+    - http://i.imgur.com/s8uvdbF.png
+    Keyan Farlander:
+    - http://i.imgur.com/1d7jnwg.png
+    Nera Dantels:
+    - http://i.imgur.com/fgDuXHi.png
+    Dagger Squadron Pilot:
+    - http://i.imgur.com/oUPfgoW.png
+    Blue Squadron Pilot:
+    - http://i.imgur.com/jiWxu3f.png
+  :upgrades:
+    Chardaan Refit:
+    - http://i.imgur.com/onRgmiA.png
+    A-Wing Test Pilot:
+    - http://i.imgur.com/ElIeWLj.png
+    Enhanced Scoped:
+    - http://i.imgur.com/ULO0vKq.png
+    Proton Rockets:
+    - http://i.imgur.com/yhIpRZ1.png
+    B-Wing/E2:
+    - http://i.imgur.com/p44POMQ.png
+    Kyle Katarn:
+    - http://i.imgur.com/1UXgywL.png
+    Jan Ors:
+    - http://i.imgur.com/1RzS0a3.png
+rebeltransport:
+  :pilots:
+    GR-75 Medium Transport:
+    - http://i.imgur.com/tcWSLIN.png
+    Wes Janson:
+    - http://i.imgur.com/XxPFs53.png
+    Jek Porkins:
+    - http://i.imgur.com/bnEeUMJ.png
+    '"Hobbie" Klivian':
+    - http://i.imgur.com/0H0jdTE.png
+    Tarn Mison:
+    - http://i.imgur.com/VVOBsee.png
+    Red Squadron Pilot:
+    - http://i.imgur.com/HjtnOjX.png
+    Rookie Pilot:
+    - http://i.imgur.com/3t8R4I9.png
+  :upgrades:
+    Dutyfree:
+    - http://i.imgur.com/JNhQnc9.png
+    Quantum Storm:
+    - http://i.imgur.com/AREOZbJ.png
+    Bright Hope:
+    - http://i.imgur.com/Smx00yl.png
+    Expanded Cargo Hold:
+    - http://i.imgur.com/MSqG1wN.png
+    R2-D6:
+    - http://i.imgur.com/a0onvf7.png
+    R4-D6:
+    - http://i.imgur.com/Wdelvuq.png
+    Flechette Torpedoes:
+    - http://i.imgur.com/HdTjHAx.png
+    R3-A2:
+    - http://i.imgur.com/x1l0hbF.png
+    WED-15-Repair-Droid:
+    - http://i.imgur.com/KWWDk7J.png
+    Backup Shield Generator:
+    - http://i.imgur.com/xNHNthV.png
+    Carlist Rieekan:
+    - http://i.imgur.com/4NYL229.png
+    EM Emitter:
+    - http://i.imgur.com/y5loc2C.png
+    Engine Booster:
+    - http://i.imgur.com/u8vyEEC.png
+    R5-P9:
+    - http://i.imgur.com/MUQmknS.png
+    Comms Booster:
+    - http://i.imgur.com/zE9It0m.png
+    Frequency Jammer:
+    - http://i.imgur.com/BX8J0G2.png
+    Shield Projector:
+    - http://i.imgur.com/AlosPKY.png
+    Tibanna Gas Supplies:
+    - http://i.imgur.com/vDxYFyp.png
+    Jan Dodonna:
+    - http://i.imgur.com/b4hWVVd.png
+    Toryn Farr:
+    - http://i.imgur.com/Vr2AoNl.png
+    Slicer Tools:
+    - http://i.imgur.com/fkKdx1B.png
+    Combat Retrofit:
+    - http://i.imgur.com/OHvo67d.png
+tantiveiv:
+  :pilots:
+    CR90 Corvette (Fore):
+    - http://i.imgur.com/NlePtUT.png
+    CR90 Corvette (Aft):
+    - http://i.imgur.com/8xr9WdK.png
+  :upgrades:
+    Jaina's Light:
+    - http://i.imgur.com/a5FkVER.png
+    Dodonna's Pride:
+    - http://i.imgur.com/3qhwTqh.png
+    Tantive IV:
+    - http://i.imgur.com/T1DIoUb.png
+    Backup Shield Generator:
+    - http://i.imgur.com/xNHNthV.png
+    Han Solo:
+    - http://i.imgur.com/IgI3dDx.png
+    C-3PO:
+    - http://i.imgur.com/TJytFDx.png
+    Engine Booster:
+    - http://i.imgur.com/u8vyEEC.png
+    Comms Booster:
+    - http://i.imgur.com/zE9It0m.png
+    Engineering Team:
+    - http://i.imgur.com/sDfb3Ib.png
+    Gunnery Team:
+    - http://i.imgur.com/m8n1tpb.png
+    Ionization Reactor:
+    - http://i.imgur.com/VEV9W73.png
+    Leia Organa:
+    - http://i.imgur.com/hE89XP5.png
+    R2-D2:
+    - http://i.imgur.com/60osxn7.png
+    Sensor Team:
+    - http://i.imgur.com/dVoH4wj.png
+    Targeting Computer:
+    - http://i.imgur.com/P1zsg56.png
+    Tibanna Gas Supplies:
+    - http://i.imgur.com/vDxYFyp.png
+    Raymus Antilles:
+    - http://i.imgur.com/ei1YNmP.png
+    Quad Laser Cannons:
+    - http://i.imgur.com/CAijmVN.png
+    Single Turbolasers:
+    - http://i.imgur.com/gh9gRFV.png
+reference:
+  :reference:
+    Ion Token:
+    - http://i.imgur.com/YlIx1Kr.png
+    Boost Action:
+    - http://i.imgur.com/JNC68vs.png
+    Bomb Token:
+    - http://i.imgur.com/E0POd8p.png
+    'Bomb Token #2':
+    - http://i.imgur.com/DSy34v3.png
+    Cloak Action:
+    - http://i.imgur.com/El5lF5A.png
+    Decloak:
+    - http://i.imgur.com/hGpQcWH.png
